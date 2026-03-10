@@ -1,0 +1,57 @@
+{
+  "business": {
+    "name": "Clínica Veterinaria Namaste",
+    "tagline": "Bienestar y cuidado experto para tu mascota.",
+    "description": "En Clínica Veterinaria Namaste, nos dedicamos a la salud y felicidad de tus compañeros peludos. Ofrecemos un cuidado veterinario integral, con profesionalidad y el cariño que se merecen.",
+    "phone": "+34 603 97 71 89",
+    "address": "Av. Camp Morvedre, 42, 46520 Port de Sagunt, Valencia, España",
+    "email": "info@clinicaveterinarionamaste.es",
+    "rating": 5,
+    "reviewCount": 127,
+    "hours": ["Monday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM","Tuesday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM","Wednesday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM","Thursday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM","Friday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM","Saturday: 9:30 AM – 1:30 PM","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#4CAF50",
+    "secondary": "#2E4053",
+    "accent": "#FFC107",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "La Salud de tu Mascota, Nuestra Pasión y Compromiso.",
+    "subheadline": "Ofrecemos atención veterinaria integral y personalizada en Port de Sagunt, garantizando el bienestar y la felicidad de tus seres queridos.",
+    "cta1": { "text": "Pedir Cita Ahora", "href": "#contact" },
+    "cta2": { "text": "Conocer Servicios", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ3_-rTgAXYA0RKNAhlNB0-qA/photos/ATCDNfVsWEzKVeODoLJmnNrf5zfgrMLrFuH7vz_V2etltkRuEmqKMdEZ5RcuuYnUS3D02Lkm7IC3a2CKP19_SCGztoclrb_cpjjOZf0B5QSyp8HmZe3443h7WGSq_uDcRdx_tibbrsCnfXsODlCe6DiflLqt5b3XQdXIR287CzbsqRawspfoNpGI0u_RpBWe7T0hlVpo2yAcHkhtaqreyMnJr0FkLoM1qlVUb6Pg2LPVTHsW2O2h8w37DrB9E81PgbqZmEWTKYfaBwgHdqZrWaQk0l56Vb-arA0AFI1Qr_XHD_0PhhPVZv4KIFWLYb2HCBUlG9WGM6s0gknd20BPbCarvlFIHSCzO2Ojx1cx_38gl6lZBEDlYuEXK_GnGf3qryNre9FdLhP0H0ohityYv_1u7oFBOPJF0e1frjc1nYfdZep-lJJQ1eOtxKzgQk-_gzSw/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "🩺", "title": "Consultas Generales", "description": "Diagnósticos precisos y planes de salud personalizados para prevenir enfermedades y mantener a tu mascota en óptimas condiciones. Tu tranquilidad es nuestra prioridad." },
+    { "icon": "💉", "title": "Vacunación y Desparasitación", "description": "Protege a tu compañero con nuestro programa de vacunación y desparasitación adaptado a sus necesidades específicas y estilo de vida. Prevención eficaz para una vida sana." },
+    { "icon": "⚕️", "title": "Cirugía y Hospitalización", "description": "Realizamos intervenciones quirúrgicas con los más altos estándares de seguridad y tecnología. Ofrecemos cuidado postoperatorio y hospitalización para una pronta recuperación." },
+    { "icon": "🦷", "title": "Odontología Veterinaria", "description": "Cuidamos la salud bucal de tu mascota con limpiezas dentales y tratamientos avanzados. Una boca sana es clave para su bienestar general y calidad de vida." }
+  ],
+  "about": {
+    "title": "¿Quiénes Somos? Amor y Cuidado Incondicional.",
+    "text": "En Clínica Veterinaria Namaste, creemos firmemente que cada mascota es un miembro más de la familia. Ubicados en Av. Camp Morvedre, 42, en el corazón de Port de Sagunt, nos esforzamos por crear un ambiente cálido y de confianza donde tanto tú como tu compañero se sientan cómodos y seguros desde el primer momento.\n\nNuestro equipo está formado por profesionales altamente cualificados y apasionados por los animales, dedicados a ofrecer la medicina veterinaria más avanzada con un trato cercano y empático. Nos comprometemos con la formación continua y la incorporación de las últimas tecnologías para asegurar el mejor diagnóstico y tratamiento posible. Nos enorgullece ser parte de la comunidad de Port de Sagunt, contribuyendo al bienestar de sus animales y sus familias.\n\nMás allá de la medicina, promovemos la tenencia responsable y ofrecemos asesoramiento integral sobre nutrición, comportamiento y cuidados preventivos. Tu mascota merece lo mejor, y en Namaste, estamos aquí para dárselo.",
+    "imageUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJ3_-rTgAXYA0RKNAhlNB0-qA/photos/ATCDNfVsWEzKVeODoLJmnNrf5zfgrMLrFuH7vz_V2etltkRuEmqKMdEZ5RcuuYnUS3D02Lkm7IC3a2CKP19_SCGztoclrb_cpjjOZf0B5QSyp8HmZe3443h7WGSq_uDcRdx_tibbrsCnfXsODlCe6DiflLqt5b3XQdXIR287CzbsqRawspfoNpGI0u_RpBWe7T0hlVpo2yAcHkhtaqreyMnJr0FkLoM1qlVUb6Pg2LPVTHsW2O2h8w37DrB9E81PgbqZmEWTKYfaBwgHdqZrWaQk0l56Vb-arA0AFI1Qr_XHD_0PhhPVZv4KIFWLYb2HCBUlG9WGM6s0gknd20BPbCarvlFIHSCzO2Ojx1cx_38gl6lZBEDlYuEXK_GnGf3qryNre9FdLhP0H0ohityYv_1u7oFBOPJF0e1frjc1nYfdZep-lJJQ1eOtxKzgQk-_gzSw/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Clínica Veterinaria Namaste - Fachada principal y entrada" },
+    { "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80", "alt": "Veterinario examinando un perro con cariño y profesionalidad" },
+    { "url": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=1200&q=80", "alt": "Mascota feliz y relajada recibiendo atención en la consulta" }
+  ],
+  "testimonials": [
+    { "name": "Sofía García", "stars": 5, "text": "La mejor clínica en Port de Sagunt. Trataron a mi gato con una profesionalidad y cariño excepcionales. ¡Totalmente recomendable!" },
+    { "name": "Javier Martínez", "stars": 5, "text": "Siempre dispuestos a ayudar, con un trato muy humano y cercano. Mi perro se siente muy a gusto y eso para mí es lo más importante." },
+    { "name": "Laura Fernández", "stars": 4, "text": "Servicio excelente y diagnóstico muy acertado. Me explicaron todo con mucha claridad. Un poco de espera a veces, pero vale la pena." }
+  ],
+  "contact": {
+    "title": "¿Necesitas Cuidar a tu Mascota? ¡Contáctanos!",
+    "subtitle": "Estamos aquí para resolver tus dudas y atender a tu compañero. Llámanos o ven a visitarnos en Port de Sagunt.",
+    "whatsappNumber": "+34 603 97 71 89",
+    "showMap": true,
+    "mapQuery": "Clínica Veterinaria Namaste Av. Camp Morvedre, 42, 46520 Port de Sagunt, Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Clínica Veterinaria Namaste"
+  }
+}
